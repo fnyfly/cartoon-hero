@@ -34,12 +34,12 @@ main{
 
 main img{
 	max-width: 100%;
-	padding: 10px 0 0 0;
+	padding: 80px 0 0 0;
 }
 
 h2{
 	size: 35px;
-	padding: 20px 170px 0px;
+	padding: 80px 170px 0 170px;
 }
 
 p{
@@ -55,7 +55,7 @@ ul{
 }
 
 footer p{
-	padding-bottom: 10px;
+	padding: 80px 200px 10px 200px;
 	text-align: center;
 }
 
